@@ -1,0 +1,62 @@
+[
+    {
+       "current plant":"Lettuce",
+       "current stage":"Germination",
+       "number of days from seeding":0,
+       "pH":"5.5-6.0",
+       "EC":"0.8-1.2 mS/cm",
+       "temperature":"70-75°F (21-24°C)",
+       "humidity":"65-85%",
+       "light":"0 hours per day"
+    },
+    {
+       "current plant":"Lettuce",
+       "current stage":"Seedling",
+       "number of days from seeding":7,
+       "pH":"5.5-6.0",
+       "EC":"0.8-1.2 mS/cm",
+       "temperature":"65°F (18°C)",
+       "humidity":"60-80%",
+       "light":"18 hours per day"
+    },
+    {
+       "current plant":"Lettuce",
+       "current stage":"Early Growth",
+       "number of days from seeding":14,
+       "pH":"5.5-6.0",
+       "EC":"0.8-1.2 mS/cm",
+       "temperature":"60-70°F (15-21°C)",
+       "humidity":"55-75%",
+       "light":"16 hours per day"
+    },
+    {
+       "current plant":"Lettuce",
+       "current stage":"Mid Growth",
+       "number of days from seeding":21,
+       "pH":"5.5-6.0",
+       "EC":"0.8-1.2 mS/cm",
+       "temperature":"60-70°F (15-21°C)",
+       "humidity":"50-70%",
+       "light":"14 hours per day"
+    },
+    {
+       "current plant":"Lettuce",
+       "current stage":"Late Growth",
+       "number of days from seeding":28,
+       "pH":"5.5-6.0",
+       "EC":"0.8-1.2 mS/cm",
+       "temperature":"60-70°F (15-21°C)",
+       "humidity":"45-65%",
+       "light":"12 hours per day"
+    },
+    {
+       "current plant":"Lettuce",
+       "current stage":"Harvest",
+       "number of days from seeding":35,
+       "pH":"5.5-6.0",
+       "EC":"0.8-1.2 mS/cm",
+       "temperature":"60-70°F (15-21°C)",
+       "humidity":"40-60%",
+       "light":"10 hours per day"
+    }
+ ]
